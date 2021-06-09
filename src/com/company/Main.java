@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println("Hello World");
 
-        Problem1.getMulti(2, 1000);
+        Problem2.evenNumbers(1, 4000000);
 
     }
 }
