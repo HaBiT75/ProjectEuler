@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println("Hello World");
 
-        Problem2.evenNumbers(4000000);
+        Problem3.getPrimeFactor(600851475143l);
 
     }
 }
