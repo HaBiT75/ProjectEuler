@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println("Hello World");
 
-        Problem3.getPrimeFactor(600851475143l);
+        Problem4.getPalindrome(999,999);
 
     }
 }
